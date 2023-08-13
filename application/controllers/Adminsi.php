@@ -122,7 +122,7 @@ class Adminsi extends CI_Controller {
 
 			}
 
-			redirect('https://volfglass.ru/adminsi/catalog/edit/'.$id);
+			redirect('/adminsi/catalog/edit/'.$id);
 
 		}else{
 
